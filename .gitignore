@@ -1,0 +1,14 @@
+cartridges/app_adidas_mobile/.settings
+sites/site_template/.project
+node_modules/*
+.idea/
+./**/*.tern-project
+coverage/
+test-results.xml
+npm-debug.log
+dw.json
+launch.json
+.DS_Store
+package-lock.json
+tests/integration/**/results
+dslinting
