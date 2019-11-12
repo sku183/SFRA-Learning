@@ -11,3 +11,4 @@ launch.json
 package-lock.json
 tests/integration/**/results
 dslinting
+hello/*
